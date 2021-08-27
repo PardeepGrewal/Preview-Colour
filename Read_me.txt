@@ -1,0 +1,1 @@
+This is used to Display the colour obtained by BGR input given by user using slider.
